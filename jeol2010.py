@@ -1,6 +1,6 @@
 # jeol2010f remote control using jeol2010lib.py
 # Author: Qun Liu, qun.liu@gmail.com
-#
+# source: https://github.com/qun-liu/jeol2010f  
 import time
 import math
 import sys
