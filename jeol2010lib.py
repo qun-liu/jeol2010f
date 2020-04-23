@@ -1,5 +1,5 @@
 #
-#jeol2010f ftcomm.dll is a wrapper by ctypes for use with pyscope package, required by jeol2010f.py
+#jeol2010f ftcomm.dll is a wrapper by ctypes for use with pyscope package, required by jeol2010.py
 # Author: Qun Liu, qun.liu@gmail.com
 #  source: https://github.com/qun-liu/jeol2010f 
 #
